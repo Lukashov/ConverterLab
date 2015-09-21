@@ -30,7 +30,7 @@ import com.example.den.converterlab.utils.CheckAllForStart;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Fin
 public class MainActivity extends ActionBarActivity implements SearchView.OnQueryTextListener, SwipeRefreshLayout.OnRefreshListener {
 
     private Intent mIntent;
