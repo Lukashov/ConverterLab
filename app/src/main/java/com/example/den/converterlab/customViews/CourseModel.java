@@ -1,11 +1,7 @@
 package com.example.den.converterlab.customViews;
 
-import android.annotation.TargetApi;
 import android.content.Context;
-import android.os.Build;
-import android.support.v7.widget.CardView;
 import android.util.AttributeSet;
-import android.view.LayoutInflater;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
@@ -18,7 +14,6 @@ import com.example.den.converterlab.models.Currenci;
  */
 public class CourseModel extends RelativeLayout {
 
-    private CardView mCard;
     private TextView mTxtNameCurrency;
     private TextView mTxtAsk;
     private TextView mTxtBid;
@@ -40,27 +35,14 @@ public class CourseModel extends RelativeLayout {
         initComponent();
     }
 
-    @TargetApi(Build.VERSION_CODES.LOLLIPOP)
-    public CourseModel(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
-        super(context, attrs, defStyleAttr, defStyleRes);
-        initComponent();
-    }
-
     private void initComponent() {
-        LayoutInflater inflater = (LayoutInflater) getContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-        inflater.inflate(R.layout.course_model, this);
-        findViews();
-    }
+        inflate(getContext(), R.layout.course_model, this);
 
-    private void findViews() {
-
-        mTxtNameCurrency = (TextView) findViewById(R.id.txtNameCurrency_CV);
-        mTxtAsk = (TextView) findViewById(R.id.txtAsk_CV);
+        mTxtNameCurrency = (TextView) findViewById(R.id.txtNameCurrency_CM);
+        mTxtAsk = (TextView) findViewById(R.id.txtAsk_CM);
         mTxtBid = (TextView) findViewById(R.id.txtBid_CV);
-        mArrAsk = (ImageView) findViewById(R.id.imgAsk_CV);
-        mArrBid = (ImageView) findViewById(R.id.imgBid_CV);
-
-    }
+        mArrAsk = (ImageView) findViewById(R.id.imgAsk_CM);
+        mArrBid = (ImageView) findViewById(R.id.imgBid_CM);    }
 
     public void setConteiner(Currenci currenci){
         mTxtNameCurrency.setText(currenci.getNameCurrency());

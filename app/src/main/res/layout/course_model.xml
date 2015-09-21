@@ -18,8 +18,7 @@
                 android:layout_weight="5">
 
                 <TextView
-                    android:id="@+id/txtNameCurrency_CV"
-                    android:text="Name Currency"
+                    android:id="@+id/txtNameCurrency_CM"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textColor="@color/black_semi_transparent"
@@ -46,8 +45,7 @@
                 android:layout_marginBottom="16dp">
 
                 <ImageView
-                    android:id="@+id/imgAsk_CV"
-                    android:src="@drawable/ic_green_arrow_up"
+                    android:id="@+id/imgAsk_CM"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
@@ -55,8 +53,7 @@
                     android:layout_weight="1"/>
 
                 <ImageView
-                    android:id="@+id/imgBid_CV"
-                    android:src="@drawable/ic_red_arrow_down"
+                    android:id="@+id/imgBid_CM"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="16dp"
@@ -73,8 +70,7 @@
                 android:layout_marginBottom="16dp">
 
                 <TextView
-                    android:id="@+id/txtAsk_CV"
-                    android:text="ASK"
+                    android:id="@+id/txtAsk_CM"
                     android:layout_width="wrap_content"
                     android:layout_height="0dp"
                     android:layout_marginTop="16dp"
@@ -85,7 +81,6 @@
 
                 <TextView
                     android:id="@+id/txtBid_CV"
-                    android:text="BID"
                     android:layout_width="wrap_content"
                     android:layout_height="0dp"
                     android:layout_marginLeft="16dp"

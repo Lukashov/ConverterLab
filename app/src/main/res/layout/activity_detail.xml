@@ -313,7 +313,7 @@
             fab:fab_colorNormal="#DDE1E5"
             fab:fab_size="mini"
             android:src="@drawable/ic_phone"
-            fab:fab_title="Позвонить"
+            fab:fab_title=" Позвонить "
             fab:fab_colorPressed="#DDE1E5"/>
 
         </com.getbase.floatingactionbutton.FloatingActionsMenu>

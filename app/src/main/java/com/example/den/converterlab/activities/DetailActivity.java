@@ -3,8 +3,6 @@ package com.example.den.converterlab.activities;
 import android.annotation.TargetApi;
 import android.app.DialogFragment;
 import android.content.Intent;
-import android.graphics.Bitmap;
-import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
@@ -16,7 +14,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.FrameLayout;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -61,6 +58,10 @@ public class DetailActivity extends AppCompatActivity implements View.OnClickLis
 
     private SwipeRefreshLayout mSwipeRefreshLayout;
 
+    private boolean mExpanded;
+
+    private LinearLayout mLinearLayout;
+
 
     @TargetApi(Build.VERSION_CODES.JELLY_BEAN)
     @Override
@@ -68,26 +69,24 @@ public class DetailActivity extends AppCompatActivity implements View.OnClickLis
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
 
-        poolDownToRefresh();
-
-        mFrameLayout = (FrameLayout) findViewById(R.id.flVisibility);
-
-        setFabMenu();
+        findViews();
 
         mUseDataBaseController = new UseDataBaseController(new DataBaseHelper(this));
 
         mIntent = getIntent();
-
         organizations = new Organizations();
         organizations = mUseDataBaseController.getOrganizationFromDB(mIntent.getStringExtra("idOrg"));
-
-        findViews();
 
         setViews();
 
         createListCourses();
 
-        mDialog = new ShareDialog();
+        poolDownToRefresh();
+
+        if (savedInstanceState != null)
+            mExpanded = savedInstanceState.getBoolean("mExpanded");
+
+        setFabMenu();
 
         setToolbar();
 
@@ -113,15 +112,15 @@ public class DetailActivity extends AppCompatActivity implements View.OnClickLis
     }
 
     private void createListCourses() {
-        final LinearLayout linearLayout = (LinearLayout) findViewById(R.id.lLayout);
+        mLinearLayout = (LinearLayout) findViewById(R.id.lLayout);
 
         listCurrenci = new ArrayList<>();
         listCurrenci = organizations.getCurrencies().getCurrencyList();
 
         for (int i = 0; i < listCurrenci.size(); i++) {
-            CourseModel courseModel = new CourseModel(getApplicationContext());
+            CourseModel courseModel = new CourseModel(this);
             courseModel.setConteiner(listCurrenci.get(i));
-            linearLayout.addView(courseModel);
+            mLinearLayout.addView(courseModel);
         }
     }
 
@@ -141,6 +140,7 @@ public class DetailActivity extends AppCompatActivity implements View.OnClickLis
     }
 
     private void setFabMenu() {
+        mFrameLayout = (FrameLayout) findViewById(R.id.flVisibility);
 
         FloatingActionsMenu menuMultipleActions = (FloatingActionsMenu) findViewById(R.id.multiple_actions);
 
@@ -148,14 +148,19 @@ public class DetailActivity extends AppCompatActivity implements View.OnClickLis
         FloatingActionButton actionLink = (FloatingActionButton) findViewById(R.id.action_b);
         FloatingActionButton actionPhone = (FloatingActionButton) findViewById(R.id.action_c);
 
+        if (mExpanded)
+            mFrameLayout.setVisibility(View.VISIBLE);
+
         menuMultipleActions.setOnFloatingActionsMenuUpdateListener(new FloatingActionsMenu.OnFloatingActionsMenuUpdateListener() {
             @Override
             public void onMenuExpanded() {
+                mExpanded = true;
                 mFrameLayout.setVisibility(View.VISIBLE);
             }
 
             @Override
             public void onMenuCollapsed() {
+                mExpanded = false;
                 mFrameLayout.setVisibility(View.INVISIBLE);
             }
         });
@@ -189,6 +194,7 @@ public class DetailActivity extends AppCompatActivity implements View.OnClickLis
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
+        mDialog = new ShareDialog();
         Bundle bundle = new Bundle();
         if (id == R.id.action_share){
             bundle.putString("idOrg", mIntent.getStringExtra("idOrg"));
@@ -224,5 +230,11 @@ public class DetailActivity extends AppCompatActivity implements View.OnClickLis
                 startServiceLoadJson();
             }
         }, 3000);
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putBoolean("mExpanded", mExpanded);
     }
 }
