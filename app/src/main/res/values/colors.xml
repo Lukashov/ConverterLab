@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="black_semi_transparent">#B2000000</color>
+        <color name="colorPrimary">#B0BFC6</color>
+        <color name="colorPrimaryDark">#536D7A</color>
+        <color name="colorPrimaryLight">#DDE1E5</color>
+        <color name="colorAccent">#FF4181</color>
+        <color name="textColorPrimary">#283338</color>
+        <color name="textColorSecondary">#35484F</color>
+        <color name="text">#78868F</color>
+
+        <color name="tabLayoutColor">#ff9babb1</color>
+        <color name="backgroundColor">#ffdcdcdc</color>
+        <color name="cardColor">#ffe9eaea</color>
+        <color name="currencyColor">#ff680a44</color>
+        <color name="courseColorGreen">#ff155154</color>
+        <color name="foneColor">#ffdcdcdc</color>
+
+        <color name="app_primary">#455A64</color>
+        <color name="app_primary_dark">#37474F</color>
+</resources>

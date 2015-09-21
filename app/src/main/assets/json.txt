@@ -1,0 +1,4373 @@
+{
+  "sourceId": "currency-cash",
+  "date": "2015-09-14T11:40:16+03:00",
+  "dataRoot": [
+    {
+      "id": "7oiylpmiow8iy1smau3",
+      "oldId": 1034,
+      "orgType": 2,
+      "title": "\u0410\u0440\u0442\u0430\u0434\u0430",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442228032",
+      "address": "\u0443\u043b. \u0410.\u0411\u0430\u0440\u0431\u044e\u0441\u0430, 5-\u0430",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smau3\/cash",
+      "currencies": {
+        "AED": {
+          "ask": "6.3800",
+          "bid": "5.6120"
+        },
+        "AMD": {
+          "ask": "0.0500",
+          "bid": "0.0285"
+        },
+        "AUD": {
+          "ask": "16.2800",
+          "bid": "14.6050"
+        },
+        "AZN": {
+          "ask": "21.6000",
+          "bid": "15.0570"
+        },
+        "BGN": {
+          "ask": "14.0000",
+          "bid": "8.0880"
+        },
+        "BRL": {
+          "ask": "7.4000",
+          "bid": "4.0570"
+        },
+        "BYR": {
+          "ask": "0.0016",
+          "bid": "0.0012"
+        },
+        "CAD": {
+          "ask": "17.5500",
+          "bid": "16.6050"
+        },
+        "CHF": {
+          "ask": "24.0500",
+          "bid": "23.0050"
+        },
+        "CLP": {
+          "ask": "0.0470",
+          "bid": "0.0275"
+        },
+        "CNY": {
+          "ask": "3.6300",
+          "bid": "3.0050"
+        },
+        "CYP": {
+          "ask": "13.2000",
+          "bid": "10.2050"
+        },
+        "CZK": {
+          "ask": "0.9700",
+          "bid": "0.9120"
+        },
+        "DKK": {
+          "ask": "3.4500",
+          "bid": "3.1020"
+        },
+        "EEK": {
+          "ask": "1.8000",
+          "bid": "0.4550"
+        },
+        "EGP": {
+          "ask": "2.9500",
+          "bid": "1.7550"
+        },
+        "EUR": {
+          "ask": "26.5000",
+          "bid": "25.4000"
+        },
+        "GBP": {
+          "ask": "35.7500",
+          "bid": "34.2050"
+        },
+        "GEL": {
+          "ask": "12.3000",
+          "bid": "7.1550"
+        },
+        "HKD": {
+          "ask": "3.4000",
+          "bid": "2.0250"
+        },
+        "HRK": {
+          "ask": "3.6000",
+          "bid": "2.2250"
+        },
+        "HUF": {
+          "ask": "0.0855",
+          "bid": "0.0805"
+        },
+        "ILS": {
+          "ask": "6.2000",
+          "bid": "5.5050"
+        },
+        "INR": {
+          "ask": "0.3500",
+          "bid": "0.2230"
+        },
+        "ISK": {
+          "ask": "0.1780",
+          "bid": "0.1135"
+        },
+        "JPY": {
+          "ask": "0.1870",
+          "bid": "0.1705"
+        },
+        "KRW": {
+          "ask": "0.0220",
+          "bid": "0.0135"
+        },
+        "KWD": {
+          "ask": "73.0000",
+          "bid": "46.0900"
+        },
+        "KZT": {
+          "ask": "0.0890",
+          "bid": "0.0612"
+        },
+        "LBP": {
+          "ask": "0.0190",
+          "bid": "0.0115"
+        },
+        "LTL": {
+          "ask": "7.3000",
+          "bid": "5.1270"
+        },
+        "LVL": {
+          "ask": "16.9000",
+          "bid": "15.6120"
+        },
+        "MDL": {
+          "ask": "1.2200",
+          "bid": "0.9120"
+        },
+        "MTL": {
+          "ask": "17.5000",
+          "bid": "10.0870"
+        },
+        "MXN": {
+          "ask": "1.7300",
+          "bid": "1.0400"
+        },
+        "NOK": {
+          "ask": "2.7800",
+          "bid": "2.5120"
+        },
+        "NZD": {
+          "ask": "17.0000",
+          "bid": "11.1300"
+        },
+        "PKR": {
+          "ask": "0.3000",
+          "bid": "0.1350"
+        },
+        "PLN": {
+          "ask": "6.2700",
+          "bid": "6.1250"
+        },
+        "ROL": {
+          "ask": "5.8500",
+          "bid": "4.6250"
+        },
+        "RUB": {
+          "ask": "0.3390",
+          "bid": "0.3100"
+        },
+        "SAR": {
+          "ask": "6.1500",
+          "bid": "4.1800"
+        },
+        "SEK": {
+          "ask": "2.7000",
+          "bid": "2.4670"
+        },
+        "SGD": {
+          "ask": "16.9000",
+          "bid": "13.2600"
+        },
+        "SKK": {
+          "ask": "0.6800",
+          "bid": "0.3570"
+        },
+        "THB": {
+          "ask": "0.6700",
+          "bid": "0.4070"
+        },
+        "TJS": {
+          "ask": "5.0000",
+          "bid": "2.0150"
+        },
+        "TMT": {
+          "ask": "7.0000",
+          "bid": "3.2550"
+        },
+        "TRY": {
+          "ask": "8.1500",
+          "bid": "7.0050"
+        },
+        "TWD": {
+          "ask": "0.8800",
+          "bid": "0.4500"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.5000"
+        },
+        "VND": {
+          "ask": "0.0012",
+          "bid": "0.0010"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb4t",
+      "oldId": 1429,
+      "orgType": 1,
+      "title": "\u0411\u0410\u041d\u041a 3\/4",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0443649808",
+      "address": "\u0443\u043b. \u0424\u0440\u0443\u043d\u0437\u0435, 25",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb4t\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "25.5000"
+        },
+        "RUB": {
+          "ask": "0.3650",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smawc",
+      "oldId": 1122,
+      "orgType": 1,
+      "title": "\u0411\u041c \u0411\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0800305305",
+      "address": "\u0431-\u0440 \u0422.\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e,  37\/122",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smawc\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "25.1000"
+        },
+        "RUB": {
+          "ask": "0.3480",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smcbo",
+      "oldId": 2368,
+      "orgType": 1,
+      "title": "\u0411\u041c \u0411\u0430\u043d\u043a \u0414\u043f\u041e \u211616",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0567451751",
+      "address": "\u0443\u043b. \u041f\u043e\u043b\u044f, 2",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smcbo\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "25.1000"
+        },
+        "RUB": {
+          "ask": "0.3480",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smc4k",
+      "oldId": 2073,
+      "orgType": 1,
+      "title": "\u0411\u041c \u0411\u0430\u043d\u043a \u0425\u041e \u21167",
+      "regionId": "ua,7oiylpmiow8iy1smacj",
+      "cityId": "7oiylpmiow8iy1smadj",
+      "phone": "0800305305",
+      "address": "\u0443\u043b. \u0418\u0432\u0430\u043d\u043e\u0432\u0430, 36-\u0410",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smc4k\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "25.1000"
+        },
+        "RUB": {
+          "ask": "0.3480",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma85",
+      "oldId": 140,
+      "orgType": 1,
+      "title": "\u0411\u0422\u0410 \u0411\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444956555",
+      "address": "\u0443\u043b. \u0416\u0438\u043b\u044f\u043d\u0441\u043a\u0430\u044f, 75",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma85\/cash",
+      "currencies": {
+        "CHF": {
+          "ask": "24.1000",
+          "bid": "21.8500"
+        },
+        "EUR": {
+          "ask": "26.0500",
+          "bid": "24.1000"
+        },
+        "GBP": {
+          "ask": "35.6000",
+          "bid": "32.8500"
+        },
+        "KZT": {
+          "ask": "0.0900",
+          "bid": "0.0530"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3060"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "21.4000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb4u",
+      "oldId": 1430,
+      "orgType": 1,
+      "title": "\u0411\u0422\u0410 \u0411\u0430\u043d\u043a \u041b\u041c\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322422131",
+      "address": "\u0443\u043b. \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u0413\u043d\u0430\u0442\u044e\u043a\u0430, 12  ",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb4u\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0500",
+          "bid": "24.1000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3060"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "21.4000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smawu",
+      "oldId": 1141,
+      "orgType": 1,
+      "title": "\u0411\u0430\u043d\u043a \u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0439 \u0438 \u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u0438\u0439",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442077039",
+      "address": "\u0443\u043b. \u041c\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0430, 83-\u0414 ",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smawu\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "27.1500",
+          "bid": "24.5000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.0000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma6b",
+      "oldId": 56,
+      "orgType": 1,
+      "title": "\u0412\u0422\u0411 \u0411\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442466005",
+      "address": "\u0431-\u0440 \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\/\u0443\u043b.\u041f\u0443\u0448\u043a\u0438\u043d\u0441\u043a\u0430\u044f, 8\/26",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma6b\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.1700",
+          "bid": "25.4400"
+        },
+        "RUB": {
+          "ask": "0.3430",
+          "bid": "0.3270"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb2g",
+      "oldId": 1344,
+      "orgType": 1,
+      "title": "\u0412\u0435\u0440\u043d\u0443\u043c \u0411\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442911185",
+      "address": "\u043f\u0440-\u0442 \u042e.\u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0430, 17-\u0412",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb2g\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.4500",
+          "bid": "25.1500"
+        },
+        "RUB": {
+          "ask": "0.3450",
+          "bid": "0.3050"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "22.4000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smap4",
+      "oldId": 853,
+      "orgType": 1,
+      "title": "\u0414\u0438\u0430\u043c\u0430\u043d\u0442\u0431\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444908391",
+      "address": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442\u043e\u0432\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c, 10\u0410",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smap4\/cash",
+      "currencies": {
+        "CAD": {
+          "ask": "17.3000",
+          "bid": "16.5000"
+        },
+        "CHF": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        },
+        "CNY": {
+          "ask": "3.5000",
+          "bid": "2.8000"
+        },
+        "CZK": {
+          "ask": "0.9600",
+          "bid": "0.9000"
+        },
+        "DKK": {
+          "ask": "3.4000",
+          "bid": "2.8000"
+        },
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.0000"
+        },
+        "GBP": {
+          "ask": "35.0000",
+          "bid": "34.0000"
+        },
+        "JPY": {
+          "ask": "0.1850",
+          "bid": "0.1700"
+        },
+        "PLN": {
+          "ask": "6.2500",
+          "bid": "5.8500"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3000"
+        },
+        "SEK": {
+          "ask": "2.7500",
+          "bid": "2.3000"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.8000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb0v",
+      "oldId": 1286,
+      "orgType": 1,
+      "title": "\u0414\u0438\u0430\u043c\u0430\u043d\u0442\u0431\u0430\u043d\u043a \u0414\u043d\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smacl",
+      "cityId": "7oiylpmiow8iy1smaee",
+      "phone": "0623041876",
+      "address": "\u043f\u0440-\u0442 \u0418\u043b\u044c\u0438\u0447\u0430, 7",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb0v\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.0000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.8000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smacq",
+      "oldId": 338,
+      "orgType": 1,
+      "title": "\u0414\u0438\u0430\u043c\u0430\u043d\u0442\u0431\u0430\u043d\u043a \u0414\u043f\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0567447726",
+      "address": "\u0443\u043b. \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e, 59",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smacq\/cash",
+      "currencies": {
+        "CAD": {
+          "ask": "17.3000",
+          "bid": "16.5000"
+        },
+        "CHF": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        },
+        "CNY": {
+          "ask": "3.5000",
+          "bid": "2.8000"
+        },
+        "CZK": {
+          "ask": "0.9600",
+          "bid": "0.9000"
+        },
+        "DKK": {
+          "ask": "3.4000",
+          "bid": "2.8000"
+        },
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.0000"
+        },
+        "GBP": {
+          "ask": "35.0000",
+          "bid": "34.0000"
+        },
+        "JPY": {
+          "ask": "0.1850",
+          "bid": "0.1700"
+        },
+        "PLN": {
+          "ask": "6.2500",
+          "bid": "5.8500"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3000"
+        },
+        "SEK": {
+          "ask": "2.7500",
+          "bid": "2.3000"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.8000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smas4",
+      "oldId": 963,
+      "orgType": 1,
+      "title": "\u0414\u0438\u0430\u043c\u0430\u043d\u0442\u0431\u0430\u043d\u043a \u0417\u043f\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smack",
+      "cityId": "7oiylpmiow8iy1smadn",
+      "phone": "0612187421",
+      "address": "\u043f\u0440-\u0442 \u041b\u0435\u043d\u0438\u043d\u0430, 198",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smas4\/cash",
+      "currencies": {
+        "CAD": {
+          "ask": "17.3000",
+          "bid": "16.5000"
+        },
+        "CHF": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        },
+        "CZK": {
+          "ask": "0.9600",
+          "bid": "0.9000"
+        },
+        "DKK": {
+          "ask": "3.4000",
+          "bid": "2.8000"
+        },
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.0000"
+        },
+        "GBP": {
+          "ask": "35.0000",
+          "bid": "34.0000"
+        },
+        "JPY": {
+          "ask": "0.1850",
+          "bid": "0.1700"
+        },
+        "PLN": {
+          "ask": "6.2500",
+          "bid": "5.8500"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.8000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smawy",
+      "oldId": 1145,
+      "orgType": 1,
+      "title": "\u0414\u0438\u0430\u043c\u0430\u043d\u0442\u0431\u0430\u043d\u043a \u041b\u0432\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322970960",
+      "address": "\u043f\u043b. \u0421\u0442\u0430\u0440\u044b\u0439 \u0420\u044b\u043d\u043e\u043a, 8",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smawy\/cash",
+      "currencies": {
+        "CAD": {
+          "ask": "17.3000",
+          "bid": "16.5000"
+        },
+        "CHF": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        },
+        "CNY": {
+          "ask": "3.5000",
+          "bid": "2.8000"
+        },
+        "CZK": {
+          "ask": "0.9600",
+          "bid": "0.9000"
+        },
+        "DKK": {
+          "ask": "3.4000",
+          "bid": "2.8000"
+        },
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.0000"
+        },
+        "GBP": {
+          "ask": "35.0000",
+          "bid": "34.0000"
+        },
+        "JPY": {
+          "ask": "0.1850",
+          "bid": "0.1700"
+        },
+        "PLN": {
+          "ask": "6.2500",
+          "bid": "5.8500"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3000"
+        },
+        "SEK": {
+          "ask": "2.7500",
+          "bid": "2.3000"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.8000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb0o",
+      "oldId": 1279,
+      "orgType": 1,
+      "title": "\u0414\u0438\u0430\u043c\u0430\u043d\u0442\u0431\u0430\u043d\u043a \u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smacc",
+      "cityId": "7oiylpmiow8iy1smadk",
+      "phone": "0487185691",
+      "address": "\u0443\u043b. \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0410\u0440\u043d\u0430\u0443\u0442\u0441\u043a\u0430\u044f, 49 ",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb0o\/cash",
+      "currencies": {
+        "CAD": {
+          "ask": "17.3000",
+          "bid": "16.5000"
+        },
+        "CHF": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        },
+        "CNY": {
+          "ask": "3.5000",
+          "bid": "2.8000"
+        },
+        "CZK": {
+          "ask": "0.9600",
+          "bid": "0.9000"
+        },
+        "DKK": {
+          "ask": "3.4000",
+          "bid": "2.8000"
+        },
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.0000"
+        },
+        "GBP": {
+          "ask": "35.0000",
+          "bid": "34.0000"
+        },
+        "JPY": {
+          "ask": "0.1850",
+          "bid": "0.1700"
+        },
+        "PLN": {
+          "ask": "6.2500",
+          "bid": "5.8500"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3000"
+        },
+        "SEK": {
+          "ask": "2.7500",
+          "bid": "2.3000"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.8000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb0p",
+      "oldId": 1280,
+      "orgType": 1,
+      "title": "\u0414\u0438\u0430\u043c\u0430\u043d\u0442\u0431\u0430\u043d\u043a \u0425\u043a\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smacj",
+      "cityId": "7oiylpmiow8iy1smadj",
+      "phone": "0577524581",
+      "address": "\u0443\u043b. \u0421\u0443\u043c\u0441\u043a\u0430\u044f, 17",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb0p\/cash",
+      "currencies": {
+        "CAD": {
+          "ask": "17.3000",
+          "bid": "16.5000"
+        },
+        "CHF": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        },
+        "CNY": {
+          "ask": "3.5000",
+          "bid": "2.8000"
+        },
+        "CZK": {
+          "ask": "0.9600",
+          "bid": "0.9000"
+        },
+        "DKK": {
+          "ask": "3.4000",
+          "bid": "2.8000"
+        },
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.0000"
+        },
+        "JPY": {
+          "ask": "0.1850",
+          "bid": "0.1700"
+        },
+        "PLN": {
+          "ask": "6.2500",
+          "bid": "5.8500"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3000"
+        },
+        "SEK": {
+          "ask": "2.7500",
+          "bid": "2.3000"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.8000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smac9",
+      "oldId": 316,
+      "orgType": 1,
+      "title": "\u0415\u0432\u0440\u043e\u0431\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445850528",
+      "address": "\u0431-\u0440.\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e, 35",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smac9\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9300",
+          "bid": "25.3100"
+        },
+        "RUB": {
+          "ask": "0.3380",
+          "bid": "0.3180"
+        },
+        "USD": {
+          "ask": "22.9500",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma9u",
+      "oldId": 228,
+      "orgType": 1,
+      "title": "\u041a\u041b\u0418\u0420\u0418\u041d\u0413\u041e\u0412\u042b\u0419 \u0414\u041e\u041c",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445931043",
+      "address": "\u0443\u043b. \u0411\u043e\u0440\u0438\u0441\u043e\u0433\u043b\u0435\u0431\u0441\u043a\u0430\u044f, 5-\u0410",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma9u\/cash",
+      "currencies": {
+        "CHF": {
+          "ask": "24.0000",
+          "bid": "22.5000"
+        },
+        "EUR": {
+          "ask": "26.5000",
+          "bid": "24.5000"
+        },
+        "GBP": {
+          "ask": "36.0000",
+          "bid": "33.5000"
+        },
+        "RUB": {
+          "ask": "0.3600",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.1000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb0a",
+      "oldId": 1265,
+      "orgType": 1,
+      "title": "\u041a\u041e\u041d\u041a\u041e\u0420\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0562310438",
+      "address": "\u0443\u043b. \u0410\u0440\u0442\u0435\u043c\u0430, 94",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb0a\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.6000",
+          "bid": "25.3000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.4000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgg3",
+      "oldId": 10281,
+      "orgType": 1,
+      "title": "\u041a\u0420\u0418\u0421\u0422\u0410\u041b\u0411\u0410\u041d\u041a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445904664",
+      "address": "\u0443\u043b. \u041a\u0443\u0434\u0440\u044f\u0432\u0441\u043a\u0438\u0439 \u0441\u043f\u0443\u0441\u043a, 2",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgg3\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0500",
+          "bid": "24.5000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.1500"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb0c",
+      "oldId": 1267,
+      "orgType": 1,
+      "title": "\u041a\u0421\u0413 \u0411\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442079003",
+      "address": "\u0443\u043b. \u041f\u0440\u043e\u0440\u0435\u0437\u043d\u0430\u044f, 6",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb0c\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "24.7000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.2900"
+        },
+        "USD": {
+          "ask": "22.9500",
+          "bid": "22.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma6j",
+      "oldId": 69,
+      "orgType": 1,
+      "title": "\u041a\u043e\u043c\u0418\u043d\u0432\u0435\u0441\u0442\u0411\u0430\u043d\u043a",
+      "regionId": "ua,7oiylpmiow8iy1smabz",
+      "cityId": "7oiylpmiow8iy1smadp",
+      "phone": "0312212279",
+      "address": "\u0443\u043b.\u0413\u043e\u0439\u0434\u044b, 10",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma6j\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.7000",
+          "bid": "25.1000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smay3",
+      "oldId": 1186,
+      "orgType": 1,
+      "title": "\u041a\u0440\u0435\u0434\u0438\u0442 \u0415\u0432\u0440\u043e\u043f\u0430 \u0411\u0430\u043d\u043a ",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "8003040506",
+      "address": "\u0443\u043b. \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f, 101",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smay3\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.5500",
+          "bid": "25.3500"
+        },
+        "USD": {
+          "ask": "23.3000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb0n",
+      "oldId": 1278,
+      "orgType": 1,
+      "title": "\u041a\u0440\u0435\u0434\u0438\u0442 \u041e\u043f\u0442\u0438\u043c\u0430 \u0411\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445696515",
+      "address": "\u0443\u043b. \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0441\u043a\u0430\u044f, 69",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb0n\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.2000",
+          "bid": "24.3000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smazx",
+      "oldId": 1252,
+      "orgType": 1,
+      "title": "\u041c\u041e\u0422\u041e\u0420-\u0411\u0410\u041d\u041a",
+      "regionId": "ua,7oiylpmiow8iy1smack",
+      "cityId": "7oiylpmiow8iy1smadn",
+      "phone": "0617697555",
+      "address": "\u043f\u0440. \u041c\u043e\u0442\u043e\u0440\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u0435\u0439, 54\u0411",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smazx\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "24.9000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "21.9000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaww",
+      "oldId": 1143,
+      "orgType": 2,
+      "title": "\u041c\u0430\u0440\u0436\u0430",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444666699",
+      "address": "\u0443\u043b.\u0411. \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u043e\u0433\u043e, 3 \u0411",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaww\/cash",
+      "currencies": {
+        "AUD": {
+          "ask": "16.4000",
+          "bid": "14.6000"
+        },
+        "BYR": {
+          "ask": "0.0016",
+          "bid": "0.0010"
+        },
+        "CAD": {
+          "ask": "17.6000",
+          "bid": "16.5000"
+        },
+        "CHF": {
+          "ask": "24.1000",
+          "bid": "22.6000"
+        },
+        "CNY": {
+          "ask": "3.6500",
+          "bid": "2.9000"
+        },
+        "CZK": {
+          "ask": "1.0000",
+          "bid": "0.9000"
+        },
+        "DKK": {
+          "ask": "3.5000",
+          "bid": "3.1000"
+        },
+        "EUR": {
+          "ask": "26.5000",
+          "bid": "25.4000"
+        },
+        "GBP": {
+          "ask": "35.9000",
+          "bid": "34.2000"
+        },
+        "HUF": {
+          "ask": "0.0870",
+          "bid": "0.0780"
+        },
+        "ILS": {
+          "ask": "6.0000",
+          "bid": "5.3000"
+        },
+        "ISK": {
+          "ask": "0.1800",
+          "bid": "0.1100"
+        },
+        "JPY": {
+          "ask": "0.1920",
+          "bid": "0.1700"
+        },
+        "KZT": {
+          "ask": "0.0900",
+          "bid": "0.0600"
+        },
+        "MDL": {
+          "ask": "1.2000",
+          "bid": "0.9000"
+        },
+        "NOK": {
+          "ask": "2.8500",
+          "bid": "2.5000"
+        },
+        "PLN": {
+          "ask": "6.4000",
+          "bid": "6.1500"
+        },
+        "ROL": {
+          "ask": "5.9000",
+          "bid": "4.5000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3100"
+        },
+        "SEK": {
+          "ask": "2.8000",
+          "bid": "2.4500"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaac",
+      "oldId": 246,
+      "orgType": 1,
+      "title": "\u041d\u041a \u0411\u0410\u041d\u041a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442380921",
+      "address": "\u0431-\u0440 \u0418\u0432\u0430\u043d\u0430 \u041b\u0435\u043f\u0441\u0435, 4",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaac\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.2000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3450",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smacp",
+      "oldId": 337,
+      "orgType": 1,
+      "title": "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444908138",
+      "address": "\u0443\u043b. \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f, 54",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smacp\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.2000",
+          "bid": "25.1000"
+        },
+        "GBP": {
+          "ask": "36.1000",
+          "bid": "34.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma7p",
+      "oldId": 123,
+      "orgType": 1,
+      "title": "\u041d\u043e\u0432\u044b\u0439",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0567782414",
+      "address": "\u0443\u043b. \u041a.\u041c\u0430\u0440\u043a\u0441\u0430, 93",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma7p\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3450",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smajq",
+      "oldId": 651,
+      "orgType": 1,
+      "title": "\u041e\u0422\u041f \u0411\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0800300050",
+      "address": "\u0443\u043b.\u0416\u0438\u043b\u044f\u043d\u0441\u043a\u0430\u044f, 43",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smajq\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.4000",
+          "bid": "25.8000"
+        },
+        "USD": {
+          "ask": "23.1500",
+          "bid": "22.9000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma9a",
+      "oldId": 199,
+      "orgType": 1,
+      "title": "\u041e\u0449\u0430\u0434\u0431\u0430\u043d\u043a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0443630133",
+      "address": "\u0443\u043b. \u0413\u043e\u0441\u043f\u0438\u0442\u0430\u043b\u044c\u043d\u0430\u044f, 12-\u0413",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma9a\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.8500",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.8500"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smavd",
+      "oldId": 1080,
+      "orgType": 1,
+      "title": "\u041f\u041b\u0410\u0422\u0418\u041d\u0423\u041c \u0411\u0410\u041d\u041a (Platinum Bank TM)",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444929098",
+      "address": "\u0443\u043b. \u041d.\u0410\u043c\u043e\u0441\u043e\u0432\u0430, 12",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smavd\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.4400",
+          "bid": "25.9700"
+        },
+        "USD": {
+          "ask": "23.3000",
+          "bid": "20.0000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjl",
+      "oldId": 10394,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u0414\u043d\u0435\u043f\u0440",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": null,
+      "address": "",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjl\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.5000",
+          "bid": "25.4000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjm",
+      "oldId": 10395,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u0414\u043d\u0435\u043f\u0440 1",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0951061696",
+      "address": "",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjm\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.5000",
+          "bid": "25.4000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjk",
+      "oldId": 10393,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u041a\u0430\u0442\u0430\u043d\u0438",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": null,
+      "address": "",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjk\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.2000",
+          "bid": "25.0000"
+        },
+        "RUB": {
+          "ask": "0.3450",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgji",
+      "oldId": 10391,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u041a\u043e\u0432\u0433\u0430\u043d ",
+      "regionId": "ua,7oiylpmiow8iy1smacj",
+      "cityId": "7oiylpmiow8iy1smadj",
+      "phone": "0668503236",
+      "address": "\u0443\u043b. \u041a\u0430\u0440\u043b\u0430 \u041c\u0430\u0440\u043a\u0441\u0430, 38-\u0436",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgji\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3600",
+          "bid": "25.5800"
+        },
+        "RUB": {
+          "ask": "0.3420",
+          "bid": "0.3300"
+        },
+        "USD": {
+          "ask": "23.3000",
+          "bid": "22.9000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjj",
+      "oldId": 10392,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u0425\u0430\u0440\u044c\u043a\u043e\u0432",
+      "regionId": "ua,7oiylpmiow8iy1smacj",
+      "cityId": "7oiylpmiow8iy1smadj",
+      "phone": null,
+      "address": " \u043f\u043b. \u041f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0430\u044f, 2-\u0410",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjj\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3600",
+          "bid": "25.5800"
+        },
+        "RUB": {
+          "ask": "0.3420",
+          "bid": "0.3300"
+        },
+        "USD": {
+          "ask": "23.3000",
+          "bid": "22.8000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbwq",
+      "oldId": 1579,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u211624",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442217110",
+      "address": "",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbwq\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.4000"
+        },
+        "GBP": {
+          "ask": "35.7500",
+          "bid": "34.2050"
+        },
+        "PLN": {
+          "ask": "6.2700",
+          "bid": "6.1250"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb1f",
+      "oldId": 1307,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u211628",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442328885",
+      "address": "\u0443\u043b. \u0421\u0430\u0433\u0430\u0439\u0434\u0430\u0447\u043d\u043e\u0433\u043e, 23\/8",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb1f\/cash",
+      "currencies": {
+        "BYR": {
+          "ask": "0.0017",
+          "bid": "0.0012"
+        },
+        "CAD": {
+          "ask": "20.1500",
+          "bid": "16.6000"
+        },
+        "CHF": {
+          "ask": "26.0000",
+          "bid": "23.0000"
+        },
+        "CZK": {
+          "ask": "1.0000",
+          "bid": "0.9000"
+        },
+        "GBP": {
+          "ask": "36.0000",
+          "bid": "34.2000"
+        },
+        "GEL": {
+          "ask": "12.5000",
+          "bid": "7.1500"
+        },
+        "HKD": {
+          "ask": "4.0000",
+          "bid": "1.9000"
+        },
+        "HUF": {
+          "ask": "0.0900",
+          "bid": "0.0800"
+        },
+        "ILS": {
+          "ask": "6.5000",
+          "bid": "5.5000"
+        },
+        "JPY": {
+          "ask": "0.2500",
+          "bid": "0.1600"
+        },
+        "LTL": {
+          "ask": "7.4000",
+          "bid": "4.0000"
+        },
+        "MDL": {
+          "ask": "1.2000",
+          "bid": "0.9100"
+        },
+        "PLN": {
+          "ask": "6.6000",
+          "bid": "6.0000"
+        },
+        "ROL": {
+          "ask": "5.9000",
+          "bid": "4.6000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3100"
+        },
+        "SGD": {
+          "ask": "17.0000",
+          "bid": "13.2550"
+        },
+        "SKK": {
+          "ask": "0.7000",
+          "bid": "0.3500"
+        },
+        "THB": {
+          "ask": "0.7900",
+          "bid": "0.4000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb4r",
+      "oldId": 1427,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u211645",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0443616431",
+      "address": "\u0443\u043b. \u041c\u0435\u0434\u043e\u0432\u0430\u044f, 19-\u0430",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb4r\/cash",
+      "currencies": {
+        "AED": {
+          "ask": "6.4000",
+          "bid": "5.6200"
+        },
+        "AMD": {
+          "ask": "0.0650",
+          "bid": "0.0280"
+        },
+        "AUD": {
+          "ask": "16.7000",
+          "bid": "14.6000"
+        },
+        "AZN": {
+          "ask": "21.5000",
+          "bid": "15.0570"
+        },
+        "BGN": {
+          "ask": "15.0000",
+          "bid": "8.0850"
+        },
+        "BRL": {
+          "ask": "7.5000",
+          "bid": "4.0550"
+        },
+        "BYR": {
+          "ask": "0.0017",
+          "bid": "0.0012"
+        },
+        "CAD": {
+          "ask": "18.1000",
+          "bid": "16.6000"
+        },
+        "CHF": {
+          "ask": "25.0000",
+          "bid": "23.0000"
+        },
+        "CLP": {
+          "ask": "0.0470",
+          "bid": "0.0270"
+        },
+        "CNY": {
+          "ask": "3.6500",
+          "bid": "3.0000"
+        },
+        "CYP": {
+          "ask": "13.5000",
+          "bid": "10.2000"
+        },
+        "CZK": {
+          "ask": "1.0000",
+          "bid": "0.9100"
+        },
+        "DKK": {
+          "ask": "3.5500",
+          "bid": "3.1000"
+        },
+        "EEK": {
+          "ask": "1.9700",
+          "bid": "0.4500"
+        },
+        "EGP": {
+          "ask": "3.7500",
+          "bid": "1.7500"
+        },
+        "GBP": {
+          "ask": "37.0000",
+          "bid": "34.3000"
+        },
+        "GEL": {
+          "ask": "12.5500",
+          "bid": "7.1500"
+        },
+        "HKD": {
+          "ask": "3.8000",
+          "bid": "2.0200"
+        },
+        "HRK": {
+          "ask": "4.0000",
+          "bid": "2.2200"
+        },
+        "HUF": {
+          "ask": "0.1000",
+          "bid": "0.0800"
+        },
+        "ILS": {
+          "ask": "6.3000",
+          "bid": "5.5000"
+        },
+        "INR": {
+          "ask": "0.3700",
+          "bid": "0.2230"
+        },
+        "IQD": {
+          "ask": "0.0280",
+          "bid": "0.0170"
+        },
+        "ISK": {
+          "ask": "0.2300",
+          "bid": "0.1130"
+        },
+        "JPY": {
+          "ask": "0.2000",
+          "bid": "0.1700"
+        },
+        "KGS": {
+          "ask": "0.5000",
+          "bid": "0.2000"
+        },
+        "KRW": {
+          "ask": "0.0260",
+          "bid": "0.0130"
+        },
+        "KWD": {
+          "ask": "80.0000",
+          "bid": "46.0900"
+        },
+        "KZT": {
+          "ask": "0.1000",
+          "bid": "0.0610"
+        },
+        "LBP": {
+          "ask": "0.0210",
+          "bid": "0.0110"
+        },
+        "LTL": {
+          "ask": "8.5500",
+          "bid": "5.1250"
+        },
+        "LVL": {
+          "ask": "20.9000",
+          "bid": "15.6120"
+        },
+        "MDL": {
+          "ask": "1.3000",
+          "bid": "0.9100"
+        },
+        "MTL": {
+          "ask": "17.9000",
+          "bid": "10.0850"
+        },
+        "MXN": {
+          "ask": "1.7000",
+          "bid": "1.0370"
+        },
+        "NOK": {
+          "ask": "2.9000",
+          "bid": "2.5100"
+        },
+        "NZD": {
+          "ask": "17.1000",
+          "bid": "11.1250"
+        },
+        "PKR": {
+          "ask": "0.3100",
+          "bid": "0.1300"
+        },
+        "PLN": {
+          "ask": "6.4000",
+          "bid": "6.0000"
+        },
+        "ROL": {
+          "ask": "6.4000",
+          "bid": "4.6200"
+        },
+        "SAR": {
+          "ask": "8.1000",
+          "bid": "4.1700"
+        },
+        "SEK": {
+          "ask": "2.8500",
+          "bid": "2.4650"
+        },
+        "SGD": {
+          "ask": "17.0000",
+          "bid": "13.2550"
+        },
+        "SKK": {
+          "ask": "0.8000",
+          "bid": "0.3550"
+        },
+        "THB": {
+          "ask": "0.7000",
+          "bid": "0.4050"
+        },
+        "TJS": {
+          "ask": "5.0500",
+          "bid": "2.0100"
+        },
+        "TMT": {
+          "ask": "6.5000",
+          "bid": "3.2000"
+        },
+        "TRY": {
+          "ask": "8.5000",
+          "bid": "7.0000"
+        },
+        "TWD": {
+          "ask": "0.9500",
+          "bid": "0.4450"
+        },
+        "VND": {
+          "ask": "0.0014",
+          "bid": "0.0010"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smeeu",
+      "oldId": 2215,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u211688",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442290301",
+      "address": "\u0443\u043b. \u0410\u0440\u0442\u0435\u043c\u0430, 58",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smeeu\/cash",
+      "currencies": {
+        "AUD": {
+          "ask": "16.7000",
+          "bid": "14.6050"
+        },
+        "BYR": {
+          "ask": "0.0016",
+          "bid": "0.0012"
+        },
+        "CAD": {
+          "ask": "18.1000",
+          "bid": "16.6050"
+        },
+        "CHF": {
+          "ask": "24.1000",
+          "bid": "23.0050"
+        },
+        "CZK": {
+          "ask": "0.9700",
+          "bid": "0.9120"
+        },
+        "DKK": {
+          "ask": "3.4500",
+          "bid": "3.1020"
+        },
+        "EGP": {
+          "ask": "2.9500",
+          "bid": "1.7550"
+        },
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.4000"
+        },
+        "GBP": {
+          "ask": "35.7500",
+          "bid": "34.5000"
+        },
+        "GEL": {
+          "ask": "12.3000",
+          "bid": "7.1550"
+        },
+        "HRK": {
+          "ask": "3.6000",
+          "bid": "2.2250"
+        },
+        "HUF": {
+          "ask": "0.0855",
+          "bid": "0.0805"
+        },
+        "ILS": {
+          "ask": "6.0000",
+          "bid": "5.5050"
+        },
+        "ISK": {
+          "ask": "0.1800",
+          "bid": "0.1135"
+        },
+        "JPY": {
+          "ask": "0.2000",
+          "bid": "0.1705"
+        },
+        "LVL": {
+          "ask": "16.9000",
+          "bid": "15.6120"
+        },
+        "NOK": {
+          "ask": "2.9000",
+          "bid": "2.5120"
+        },
+        "PLN": {
+          "ask": "6.3000",
+          "bid": "6.1250"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3100"
+        },
+        "SAR": {
+          "ask": "8.1000",
+          "bid": "4.1800"
+        },
+        "SEK": {
+          "ask": "2.7000",
+          "bid": "2.4670"
+        },
+        "THB": {
+          "ask": "0.6700",
+          "bid": "0.4070"
+        },
+        "TRY": {
+          "ask": "8.1500",
+          "bid": "7.0050"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.5000"
+        },
+        "VND": {
+          "ask": "0.0012",
+          "bid": "0.0010"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smd3z",
+      "oldId": 2074,
+      "orgType": 2,
+      "title": "\u041f\u041e\u0412 \u211699",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442890802",
+      "address": "\u0443\u043b. \u041f\u0448\u0435\u043d\u0438\u0447\u043d\u0430\u044f, 18",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smd3z\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.5000",
+          "bid": "25.4000"
+        },
+        "GBP": {
+          "ask": "36.0000",
+          "bid": "34.2000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smeke",
+      "oldId": 2380,
+      "orgType": 1,
+      "title": "\u041f\u041e\u0420\u0422\u0410\u041b",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442074350",
+      "address": "\u043f\u0440-\u0442 \u041f\u043e\u0431\u0435\u0434\u044b, 5-\u0410",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smeke\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.5000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3450",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smabl",
+      "oldId": 291,
+      "orgType": 1,
+      "title": "\u041f\u043e\u043b\u0438\u043a\u043e\u043c\u0431\u0430\u043d\u043a",
+      "regionId": "ua,7oiylpmiow8iy1smaca",
+      "cityId": "7oiylpmiow8iy1smaec",
+      "phone": "0462677369",
+      "address": "\u0443\u043b.\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f, 3",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smabl\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "25.1000"
+        },
+        "RUB": {
+          "ask": "0.3430",
+          "bid": "0.3210"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma7w",
+      "oldId": 131,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0562390000",
+      "address": "\u0443\u043b.\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f \u041f\u043e\u0431\u0435\u0434\u044b, 50",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma7w\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbtg",
+      "oldId": 1490,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u0411-\u0414\u041e \u21161 \u042e\u0413\u0420\u0423 ",
+      "regionId": "ua,7oiylpmiow8iy1smacc",
+      "cityId": "7oiylpmiow8iy1smag3",
+      "phone": "0484938737",
+      "address": "\u0443\u043b.\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0430\u044f, 69 ",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbtg\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaps",
+      "oldId": 877,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u0414\u0420\u0423",
+      "regionId": "ua,7oiylpmiow8iy1smacl",
+      "cityId": "7oiylpmiow8iy1smaee",
+      "phone": "0622902421",
+      "address": "\u0443\u043b.\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0430\u044f, 82\u0410",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaps\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma7y",
+      "oldId": 133,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u0414\u0424",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445594022",
+      "address": "\u0443\u043b.\u041a\u0440\u0430\u0441\u043d\u043e\u0442\u043a\u0430\u0446\u043a\u0430\u044f, 29-A",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma7y\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaj7",
+      "oldId": 632,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u0417\u0413\u0420\u0423",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322764922",
+      "address": "\u0443\u043b.\u0413\u0443\u0446\u0443\u043b\u044c\u0441\u043a\u0430\u044f, 15-21",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaj7\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smapt",
+      "oldId": 878,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u0417\u0420\u0423",
+      "regionId": "ua,7oiylpmiow8iy1smack",
+      "cityId": "7oiylpmiow8iy1smadn",
+      "phone": "0612621336",
+      "address": "\u0443\u043b.\u0413\u043b\u0438\u0441\u0441\u0435\u0440\u043d\u0430\u044f, 1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smapt\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma7x",
+      "oldId": 132,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u041a\u0420\u0423",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442241014",
+      "address": "\u0443\u043b.\u0412.\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u0441\u043a\u043e\u0439, 12\/16",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma7x\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smacu",
+      "oldId": 349,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u041a\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smacl",
+      "cityId": "7oiylpmiow8iy1smae8",
+      "phone": "0623922291",
+      "address": "\u0443\u043b.\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f, 1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smacu\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma8o",
+      "oldId": 165,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u041a\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadz",
+      "phone": "0564719169",
+      "address": "\u0443\u043b.\u041a\u043e\u0441\u0442\u0435\u043d\u043a\u043e, 21",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma8o\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma9c",
+      "oldId": 201,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u041a\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smacf",
+      "cityId": "7oiylpmiow8iy1smaeb",
+      "phone": "0536624189",
+      "address": "\u0443\u043b.\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0430\u044f, 38",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma9c\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaji",
+      "oldId": 643,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u041a\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smac1",
+      "cityId": "7oiylpmiow8iy1smafj",
+      "phone": "0335232886",
+      "address": "\u0443\u043b.\u0413\u0440\u0443\u0448\u0435\u0432\u0441\u043a\u043e\u0433\u043e, 2",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaji\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smapu",
+      "oldId": 879,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u041b\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smacm",
+      "cityId": "7oiylpmiow8iy1smae0",
+      "phone": "0642534192",
+      "address": "\u0443\u043b.\u0427\u0435\u043b\u044e\u0441\u043a\u0438\u043d\u0446\u0435\u0432, 14",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smapu\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma9p",
+      "oldId": 218,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u041f\u0420\u0423",
+      "regionId": "ua,7oiylpmiow8iy1smacf",
+      "cityId": "7oiylpmiow8iy1smadx",
+      "phone": "0532500961",
+      "address": "\u0443\u043b. \u0428\u0432\u0435\u0434\u0441\u043a\u0430\u044f, 2",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma9p\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaov",
+      "oldId": 843,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u041f\u0424",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444907626",
+      "address": "\u0443\u043b.\u0413\u0440\u0443\u0448\u0435\u0432\u0441\u043a\u043e\u0433\u043e, 1\u0434",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaov\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaqi",
+      "oldId": 903,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u0425\u0413\u0420\u0423",
+      "regionId": "ua,7oiylpmiow8iy1smacj",
+      "cityId": "7oiylpmiow8iy1smadj",
+      "phone": "0577123330",
+      "address": "\u041a\u0440\u0430\u0441\u043d\u043e\u0448\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f, 16",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaqi\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaj6",
+      "oldId": 631,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u0427\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smaff",
+      "phone": "0324922050",
+      "address": "\u0443\u043b. \u041a\u043e\u0440\u043e\u043b\u0451\u0432\u0430, 12",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaj6\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smapa",
+      "oldId": 859,
+      "orgType": 1,
+      "title": "\u041f\u0440\u0438\u0432\u0430\u0442\u0411\u0430\u043d\u043a \u042e\u0413\u0420\u0423",
+      "regionId": "ua,7oiylpmiow8iy1smacc",
+      "cityId": "7oiylpmiow8iy1smadk",
+      "phone": "0482378593",
+      "address": "\u0443\u043b.\u0429\u043e\u0440\u0441\u0430, 125\/1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smapa\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.3000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3100"
+        },
+        "USD": {
+          "ask": "23.2000",
+          "bid": "21.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smabt",
+      "oldId": 299,
+      "orgType": 1,
+      "title": "\u0420\u0410\u0414\u0410\u0411\u0410\u041d\u041a",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0562387831",
+      "address": "\u043f\u0440-\u0442 \u041a\u0438\u0440\u043e\u0432\u0430, 46",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smabt\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.2000",
+          "bid": "25.0000"
+        },
+        "RUB": {
+          "ask": "0.3450",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "23.1000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma77",
+      "oldId": 103,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444908888",
+      "address": "\u0443\u043b. \u041be\u0441\u043a\u043e\u0432\u0430, 9",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma77\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smacw",
+      "oldId": 352,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c X\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smac6",
+      "cityId": "7oiylpmiow8iy1smae7",
+      "phone": "0382261198",
+      "address": "\u0443\u043b. \u0413\u0440\u0443\u0448\u0435\u0432\u0441\u043a\u043e\u0433\u043e, 54",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smacw\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma8g",
+      "oldId": 157,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0410\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smacm",
+      "cityId": "7oiylpmiow8iy1smady",
+      "phone": "0643137046",
+      "address": "\u0443\u043b. \u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f, 20",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma8g\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smafo",
+      "oldId": 460,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0412\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smac8",
+      "cityId": "7oiylpmiow8iy1smaf1",
+      "phone": "0432263360",
+      "address": "\u0443\u043b. 50-\u043b\u0435\u0442\u0438\u044f \u041f\u043e\u0431\u0435\u0434\u044b, 9",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smafo\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smacz",
+      "oldId": 355,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0414\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0562468026",
+      "address": "\u043f\u0440.\u041a.\u041c\u0430\u0440\u043a\u0441\u0430, 35",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smacz\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smafp",
+      "oldId": 461,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0414\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smacl",
+      "cityId": "7oiylpmiow8iy1smaee",
+      "phone": "0623371748",
+      "address": "\u0443\u043b. \u0410\u0440\u0442\u0435\u043c\u0430, 88",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smafp\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smad1",
+      "oldId": 357,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0417\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smack",
+      "cityId": "7oiylpmiow8iy1smadn",
+      "phone": "0612130121",
+      "address": "\u0443\u043b. \u0422\u0443\u0440\u0433\u0435\u043d\u0435\u0432\u0430, 29",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smad1\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smad3",
+      "oldId": 359,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u041a\u041f\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smac6",
+      "cityId": "7oiylpmiow8iy1smaes",
+      "phone": "0384923344",
+      "address": "\u0443\u043b.\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u0430\u043d\u0441\u043a\u0430\u044f, 10",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smad3\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smac1",
+      "oldId": 307,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u041a\u0420\u0414",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445902320",
+      "address": "\u0443\u043b. \u041f\u0438\u0440\u043e\u0433\u043e\u0432\u0430, 7-7\u0431",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smac1\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smad0",
+      "oldId": 356,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u041b\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smacm",
+      "cityId": "7oiylpmiow8iy1smae0",
+      "phone": "0642538389",
+      "address": "\u0443\u043b. \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f, 61",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smad0\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smad4",
+      "oldId": 360,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u041b\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322971249",
+      "address": "\u0443\u043b. \u0421\u043b\u043e\u0432\u0430\u0446\u043a\u043e\u0433\u043e, 1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smad4\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma8n",
+      "oldId": 164,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u041e\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smacc",
+      "cityId": "7oiylpmiow8iy1smadk",
+      "phone": "0482348104",
+      "address": "\u0443\u043b.\u0421\u0430\u0434\u043e\u0432\u0430\u044f,10",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma8n\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smacy",
+      "oldId": 354,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u041f\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smaer",
+      "phone": "0563242370",
+      "address": "\u043f\u0440.\u0428\u0430\u0445\u0442\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u0435\u0439, 3",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smacy\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaj5",
+      "oldId": 630,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0421\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smacg",
+      "cityId": "7oiylpmiow8iy1smaek",
+      "phone": "0542224593",
+      "address": "\u0443\u043b. \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0430\u044f, 1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaj5\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaes",
+      "oldId": 425,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0421\u0424",
+      "regionId": "ua,7oiylpmiow8iy1smacm",
+      "cityId": "7oiylpmiow8iy1smaf3",
+      "phone": "0645243347",
+      "address": "\u043f\u0440. \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439, 17",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaes\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smad2",
+      "oldId": 358,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0425\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smach",
+      "cityId": "7oiylpmiow8iy1smaen",
+      "phone": "0552246108",
+      "address": "\u0443\u043b. \u041a\u0440\u0430\u0441\u043d\u043e\u0444\u043b\u043e\u0442\u0441\u043a\u0430\u044f, 17",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smad2\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smadl",
+      "oldId": 380,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0425\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smacj",
+      "cityId": "7oiylpmiow8iy1smadj",
+      "phone": "0577158140",
+      "address": "\u0443\u043b. \u041a\u0438\u0440\u043e\u0432\u0430, 6",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smadl\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaf1",
+      "oldId": 434,
+      "orgType": 1,
+      "title": "\u0420\u0430\u0439\u0444\u0444\u0430\u0439\u0437\u0435\u043d \u0411\u0430\u043d\u043a \u0410\u0432\u0430\u043b\u044c \u0427\u041e\u0414",
+      "regionId": "ua,7oiylpmiow8iy1smac5",
+      "cityId": "7oiylpmiow8iy1smael",
+      "phone": "0372646454",
+      "address": "\u0443\u043b. \u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a\u0430\u044f, 184",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaf1\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.9000",
+          "bid": "24.8000"
+        },
+        "RUB": {
+          "ask": "0.3500",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbqh",
+      "oldId": 1453,
+      "orgType": 2,
+      "title": "\u0421\u0432\u0456\u0442",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0637259880",
+      "address": "\u0443\u043b. \u0414\u0435\u0441\u044f\u0442\u0438\u043d\u043d\u0430\u044f, 13",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbqh\/cash",
+      "currencies": {
+        "AED": {
+          "ask": "6.5000",
+          "bid": "5.6200"
+        },
+        "AUD": {
+          "ask": "18.2000",
+          "bid": "14.6050"
+        },
+        "CAD": {
+          "ask": "19.2000",
+          "bid": "16.6000"
+        },
+        "CHF": {
+          "ask": "24.2000",
+          "bid": "23.0000"
+        },
+        "CNY": {
+          "ask": "3.6500",
+          "bid": "3.0000"
+        },
+        "CZK": {
+          "ask": "0.9900",
+          "bid": "0.9100"
+        },
+        "EGP": {
+          "ask": "3.5000",
+          "bid": "1.7350"
+        },
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.4000"
+        },
+        "GBP": {
+          "ask": "35.8500",
+          "bid": "34.5000"
+        },
+        "HKD": {
+          "ask": "3.4000",
+          "bid": "2.0200"
+        },
+        "ILS": {
+          "ask": "6.5000",
+          "bid": "5.5000"
+        },
+        "INR": {
+          "ask": "0.3900",
+          "bid": "0.2230"
+        },
+        "IQD": {
+          "ask": "0.0260",
+          "bid": "0.0170"
+        },
+        "LBP": {
+          "ask": "0.0200",
+          "bid": "0.0095"
+        },
+        "NZD": {
+          "ask": "17.7000",
+          "bid": "11.1100"
+        },
+        "PKR": {
+          "ask": "0.3000",
+          "bid": "0.1300"
+        },
+        "PLN": {
+          "ask": "6.2700",
+          "bid": "6.1000"
+        },
+        "RUB": {
+          "ask": "0.3390",
+          "bid": "0.3100"
+        },
+        "SAR": {
+          "ask": "7.1000",
+          "bid": "4.1500"
+        },
+        "SGD": {
+          "ask": "17.8000",
+          "bid": "13.2600"
+        },
+        "THB": {
+          "ask": "0.9000",
+          "bid": "0.3900"
+        },
+        "TRY": {
+          "ask": "9.5000",
+          "bid": "7.0000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbvy",
+      "oldId": 1564,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442071476",
+      "address": "\u0443\u043b. \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f, 63",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbvy\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgja",
+      "oldId": 10383,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0411\u0433\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smac7",
+      "cityId": "7oiylpmiow8iy1smaev",
+      "phone": "0412418386",
+      "address": "\u0443\u043b. \u0412\u0430\u0442\u0443\u0442\u0438\u043d\u0430, 168-\u0430\/1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgja\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj4",
+      "oldId": 10377,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0411\u0440\u041e",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442255161",
+      "address": "\u0443\u043b. \u041e\u043a\u0440\u0443\u0436\u043d\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430, 110",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj4\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj0",
+      "oldId": 10373,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0414\u043d\u041e",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0443643504",
+      "address": "\u0443\u043b. \u0420\u0435\u0433\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f, 4, \u043a\u043e\u0440\u043f\u0443\u0441 5, 1 \u044d\u0442\u0430\u0436",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj0\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj8",
+      "oldId": 10381,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0414\u0440\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smaex",
+      "phone": "0324417700",
+      "address": "\u0443\u043b. \u041a\u043e\u043d\u043e\u0432\u0430\u043b\u044c\u0446\u0430, 7\/1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj8\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj3",
+      "oldId": 10376,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0414\u0441\u041e",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445408850",
+      "address": "\u0443\u043b. \u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f, 52, 2 \u044d\u0442\u0430\u0436, \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u00ab\u0411-52\u00bb",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj3\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjg",
+      "oldId": 10389,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0416\u0432\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322477393",
+      "address": "\u0443\u043b. \u0416\u043e\u0432\u043a\u043e\u0432\u0441\u043a\u0430\u044f, 16",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjg\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj9",
+      "oldId": 10382,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0416\u043c\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smac7",
+      "cityId": "7oiylpmiow8iy1smaev",
+      "phone": "0412418432",
+      "address": "\u0443\u043b. \u041d\u0435\u0431\u0435\u0441\u043d\u043e\u0439 \u0421\u043e\u0442\u043d\u0438, 12",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj9\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgje",
+      "oldId": 10387,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0417\u0432\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smacb",
+      "cityId": "7oiylpmiow8iy1smap5",
+      "phone": "0474022896",
+      "address": "\u0443\u043b. \u0411. \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u043e\u0433\u043e, 15\/1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgje\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smga6",
+      "oldId": 10083,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0417\u0434\u041e",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445852269",
+      "address": "\u0443\u043b. \u0417\u0434\u043e\u043b\u0431\u0443\u043d\u043e\u0432\u0441\u043a\u0430\u044f, 3\u00ab\u0410\u0410\u00bb",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smga6\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj7",
+      "oldId": 10380,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0417\u043b\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322383891",
+      "address": "\u0443\u043b. \u0417\u0430\u043b\u0438\u0437\u043d\u044b\u0447\u043d\u0430\u044f, 10\/6",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj7\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj2",
+      "oldId": 10375,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u041a\u0440\u041e",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444282533",
+      "address": "\u043f\u0440\u043e\u0443\u043b. \u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u0438\u0439, 20, \u0432 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0438 \u041c\u0420\u0415\u041e-13",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj2\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smeew",
+      "oldId": 2217,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u041b\u0431\u041e",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445913824",
+      "address": "\u0443\u043b. \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e, 176, \u0422\u0420\u0426 \"Ocean Plaza\"",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smeew\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smdu0",
+      "oldId": 2122,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u041b\u0432\u041e",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442772444",
+      "address": "\u0443\u043b. \u0420.\u041e\u043a\u0438\u043f\u043d\u043e\u0439, 8",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smdu0\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj6",
+      "oldId": 10379,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u041e\u0420\u0414",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444238530",
+      "address": "\u0431-\u0440 \u0410\u043a.\u0412\u0435\u0440\u043d\u0430\u0434\u0441\u043a\u043e\u0433\u043e, 4-\u0410",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj6\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj5",
+      "oldId": 10378,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0421\u0432\u041e",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0504690075",
+      "address": "\u0443\u043b. \u041e\u043a\u0440\u0443\u0436\u043d\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430, 22-\u0410",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj5\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjd",
+      "oldId": 10386,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0421\u0440\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smagh",
+      "phone": "0324570047",
+      "address": "\u0443\u043b. \u041b\u044c\u0432\u043e\u0432\u0441\u043a\u0430\u044f, 141",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjd\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjf",
+      "oldId": 10388,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0421\u0441\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smarv",
+      "phone": "0323821070",
+      "address": "\u0443\u043b. \u041b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u043e\u0432\u0430, 24",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjf\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgj1",
+      "oldId": 10374,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0421\u0442\u041e",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442527414",
+      "address": "\u0443\u043b. \u041f\u0435\u0440\u0435\u0434\u043e\u0432\u0430\u044f, 21",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgj1\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjc",
+      "oldId": 10385,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0424\u0440\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322476422",
+      "address": "\u0443\u043b. \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u0415.\u041b\u0430\u0437\u0430\u0440\u0435\u043d\u043a\u043e, 1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjc\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjb",
+      "oldId": 10384,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0427\u0441\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smacb",
+      "cityId": "7oiylpmiow8iy1smaea",
+      "phone": "0472360026",
+      "address": "\u0443\u043b. \u0421\u043c\u0438\u043b\u044f\u043d\u0441\u043a\u0430\u044f, 23",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjb\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smgjh",
+      "oldId": 10390,
+      "orgType": 1,
+      "title": "\u0421\u0438\u0447 \u0428\u0432\u041e",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322944045",
+      "address": "\u0443\u043b. \u041d\u0438\u043a\u043e\u043b\u0430\u0439\u0447\u0443\u043a\u0430, 36-\u0430",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smgjh\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.9000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smato",
+      "oldId": 1019,
+      "orgType": 1,
+      "title": "\u0423\u043a\u0440\u0421\u0438\u0431\u0431\u0430\u043d\u043a \u0412\u0420",
+      "regionId": "ua,7oiylpmiow8iy1smacj",
+      "cityId": "7oiylpmiow8iy1smadj",
+      "phone": "0577077567",
+      "address": "\u043f\u0440-\u0442 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439, 60",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smato\/cash",
+      "currencies": {
+        "CHF": {
+          "ask": "24.2000",
+          "bid": "22.2000"
+        },
+        "EUR": {
+          "ask": "26.6500",
+          "bid": "25.1000"
+        },
+        "GBP": {
+          "ask": "36.3000",
+          "bid": "33.8000"
+        },
+        "RUB": {
+          "ask": "0.3480",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.4000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smath",
+      "oldId": 1012,
+      "orgType": 1,
+      "title": "\u0423\u043a\u0440\u0421\u0438\u0431\u0431\u0430\u043d\u043a \u0414\u0420",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0567139180",
+      "address": "\u0443\u043b.\u0416\u0443\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e,3",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smath\/cash",
+      "currencies": {
+        "CHF": {
+          "ask": "24.2000",
+          "bid": "22.2000"
+        },
+        "EUR": {
+          "ask": "26.6500",
+          "bid": "25.1000"
+        },
+        "RUB": {
+          "ask": "0.3480",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.4000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smatk",
+      "oldId": 1015,
+      "orgType": 1,
+      "title": "\u0423\u043a\u0440\u0421\u0438\u0431\u0431\u0430\u043d\u043a \u0417\u0420",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322988664",
+      "address": "\u0443\u043b.\u041a\u0443\u043b\u0438\u0448\u0430, 30",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smatk\/cash",
+      "currencies": {
+        "CHF": {
+          "ask": "24.2000",
+          "bid": "22.2000"
+        },
+        "EUR": {
+          "ask": "26.6500",
+          "bid": "25.1000"
+        },
+        "GBP": {
+          "ask": "36.3000",
+          "bid": "33.8000"
+        },
+        "RUB": {
+          "ask": "0.3480",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.4000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaq0",
+      "oldId": 885,
+      "orgType": 1,
+      "title": "\u0423\u043a\u0440\u0421\u0438\u0431\u0431\u0430\u043d\u043a \u041a\u0420",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445374976",
+      "address": "\u0443\u043b. \u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0441\u043a\u0430\u044f, 7",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaq0\/cash",
+      "currencies": {
+        "CHF": {
+          "ask": "24.2000",
+          "bid": "22.2000"
+        },
+        "EUR": {
+          "ask": "26.6500",
+          "bid": "25.1000"
+        },
+        "GBP": {
+          "ask": "36.3000",
+          "bid": "33.8000"
+        },
+        "RUB": {
+          "ask": "0.3480",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.4000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smapd",
+      "oldId": 862,
+      "orgType": 1,
+      "title": "\u0423\u043a\u0440\u0421\u0438\u0431\u0431\u0430\u043d\u043a \u042e\u0420",
+      "regionId": "ua,7oiylpmiow8iy1smacc",
+      "cityId": "7oiylpmiow8iy1smadk",
+      "phone": "0487868190",
+      "address": "\u0443\u043b. \u0420\u043e\u043c\u0430\u043d\u0430 \u041a\u0430\u0440\u043c\u0435\u043d\u0430, 21\u0430",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smapd\/cash",
+      "currencies": {
+        "CHF": {
+          "ask": "24.2000",
+          "bid": "22.2000"
+        },
+        "EUR": {
+          "ask": "26.6500",
+          "bid": "25.1000"
+        },
+        "GBP": {
+          "ask": "36.3000",
+          "bid": "33.8000"
+        },
+        "RUB": {
+          "ask": "0.3480",
+          "bid": "0.3200"
+        },
+        "USD": {
+          "ask": "23.4000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma6d",
+      "oldId": 62,
+      "orgType": 1,
+      "title": "\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439 \u041a\u0430\u043f\u0438\u0442\u0430\u043b",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442053290",
+      "address": "\u043f\u0440-\u0442 \u041f\u043e\u0431\u0435\u0434\u044b , 67",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma6d\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "25.7000",
+          "bid": "25.2000"
+        },
+        "RUB": {
+          "ask": "0.3330",
+          "bid": "0.3150"
+        },
+        "USD": {
+          "ask": "22.9000",
+          "bid": "22.6000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma93",
+      "oldId": 192,
+      "orgType": 1,
+      "title": "\u0423\u043a\u0440\u0441\u043e\u0446\u0431\u0430\u043d\u043a UniCredit Bank TM",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0442054555",
+      "address": "\u0443\u043b.\u041a\u043e\u0432\u043f\u0430\u043a\u0430, 29",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma93\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3400",
+          "bid": "0.2300"
+        },
+        "USD": {
+          "ask": "23.5000",
+          "bid": "22.7500"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smcew",
+      "oldId": 1976,
+      "orgType": 1,
+      "title": "\u0424\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445369340",
+      "address": "\u0443\u043b. \u041b\u0443\u043a\u044a\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f, 1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smcew\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "24.0000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.2900"
+        },
+        "USD": {
+          "ask": "23.3000",
+          "bid": "22.2000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1sma9r",
+      "oldId": 225,
+      "orgType": 1,
+      "title": "\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0438 \u041a\u0440\u0435\u0434\u0438\u0442",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0444906870",
+      "address": "\u0443\u043b. \u0410\u0440\u0442\u0435\u043c\u0430, 60",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1sma9r\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "22.6000"
+        },
+        "RUB": {
+          "ask": "0.3350",
+          "bid": "0.2800"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "20.0000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smaad",
+      "oldId": 247,
+      "orgType": 1,
+      "title": "\u042e\u041d\u0415\u041a\u0421 \u0411\u0410\u041d\u041a",
+      "regionId": "ua,0,7oiylpmiow8iy1smadi",
+      "cityId": "7oiylpmiow8iy1smadi",
+      "phone": "0445851470",
+      "address": "\u0443\u043b. \u041f\u043e\u0447\u0430\u0439\u043d\u0438\u043d\u0441\u043a\u0430\u044f, 38",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smaad\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smazy",
+      "oldId": 1253,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0414\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0567530630",
+      "address": "\u043f\u0440.\u041a\u0438\u0440\u043e\u0432\u0430, 108",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smazy\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smcfb",
+      "oldId": 1986,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0414\u043f\u041e \u21162 ",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadm",
+      "phone": "0675070195",
+      "address": "\u0443\u043b. \u0420\u0430\u0431\u043e\u0447\u0430\u044f, 178 ",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smcfb\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb1i",
+      "oldId": 1310,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0417\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smack",
+      "cityId": "7oiylpmiow8iy1smadn",
+      "phone": "0672253559",
+      "address": "\u043f\u0440-\u0442 \u041b\u0435\u043d\u0438\u043d\u0430, 200",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb1i\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smcfd",
+      "oldId": 1988,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0417\u043f\u0420\u0423",
+      "regionId": "ua,7oiylpmiow8iy1smack",
+      "cityId": "7oiylpmiow8iy1smadn",
+      "phone": "0672450243",
+      "address": "\u043f\u0440. \u041b\u0435\u043d\u0438\u043d\u0430, 144",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smcfd\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbzc",
+      "oldId": 1614,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0418\u0424\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smac2",
+      "cityId": "7oiylpmiow8iy1smaeg",
+      "phone": "0672430217",
+      "address": "\u0443\u043b. \u0410.\u041c\u0435\u043b\u044c\u043d\u0438\u043a\u0430, 2",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbzc\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smazz",
+      "oldId": 1254,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u041a\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smaci",
+      "cityId": "7oiylpmiow8iy1smadz",
+      "phone": "0673282653",
+      "address": "\u0443\u043b.\u041a\u043e\u0441\u0442\u0435\u043d\u043a\u043e, 11",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smazz\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbyc",
+      "oldId": 1612,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u041a\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smace",
+      "cityId": "7oiylpmiow8iy1smae3",
+      "phone": "0672430175",
+      "address": "\u0443\u043b. \u041b\u0435\u043d\u0438\u043d\u0430, 13",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbyc\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbxt",
+      "oldId": 1597,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u041b\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smac0",
+      "cityId": "7oiylpmiow8iy1smadr",
+      "phone": "0322956989",
+      "address": "\u0443\u043b. \u0413\u043e\u0440\u043e\u0434\u043e\u0446\u043a\u0430\u044f, 67",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbxt\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb13",
+      "oldId": 1294,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u041d\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smacd",
+      "cityId": "7oiylpmiow8iy1smadq",
+      "phone": "0672147688",
+      "address": "\u0443\u043b. \u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u043e\u0433\u043e, \u0434.49\/1",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb13\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smcff",
+      "oldId": 1990,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u041d\u041e \u21162",
+      "regionId": "ua,7oiylpmiow8iy1smacd",
+      "cityId": "7oiylpmiow8iy1smadq",
+      "phone": "0512461847",
+      "address": "\u043f\u0440-\u0442 \u041b\u0435\u043d\u0438\u043d\u0430, 15-\u0411",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smcff\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb1j",
+      "oldId": 1311,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u041e\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smacc",
+      "cityId": "7oiylpmiow8iy1smadk",
+      "phone": "0672147689",
+      "address": "\u043f\u0440-\u0442. \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e, \u0434.4-\u0411",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb1j\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbyb",
+      "oldId": 1610,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u041f\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smacf",
+      "cityId": "7oiylpmiow8iy1smadx",
+      "phone": "0672441427",
+      "address": "\u0443\u043b. \u041b\u0435\u043d\u0438\u043d\u0430,15\/32",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbyb\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbzd",
+      "oldId": 1615,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0422\u041e \u21161 ",
+      "regionId": "ua,7oiylpmiow8iy1smac3",
+      "cityId": "7oiylpmiow8iy1smaeo",
+      "phone": "0675042040",
+      "address": "\u043f\u0440-\u0442 \u0421.\u0411\u0430\u043d\u0434\u0435\u0440\u044b, 53",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbzd\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbzg",
+      "oldId": 1618,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0423\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smabz",
+      "cityId": "7oiylpmiow8iy1smadp",
+      "phone": "0673230360",
+      "address": "\u0443\u043b. \u0428\u0432\u0430\u0431\u0441\u043a\u0430\u044f, 27\u0430",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbzg\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smb2j",
+      "oldId": 1347,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0425\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smacj",
+      "cityId": "7oiylpmiow8iy1smadj",
+      "phone": "0672163778",
+      "address": "\u0443\u043b. \u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0433\u043e, 38",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smb2j\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbzb",
+      "oldId": 1613,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0425\u041e \u21161 ",
+      "regionId": "ua,7oiylpmiow8iy1smach",
+      "cityId": "7oiylpmiow8iy1smaen",
+      "phone": "0675042044",
+      "address": "\u043f\u0440-\u0442 \u0423\u0448\u0430\u043a\u043e\u0432\u0430, 58",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbzb\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbxv",
+      "oldId": 1599,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0425\u041e \u21162",
+      "regionId": "ua,7oiylpmiow8iy1smacj",
+      "cityId": "7oiylpmiow8iy1smadj",
+      "phone": "0672441256",
+      "address": "\u043f\u0440-\u0442 \u041b\u0435\u043d\u0438\u043d\u0430, 64",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbxv\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    },
+    {
+      "id": "7oiylpmiow8iy1smbzh",
+      "oldId": 1619,
+      "orgType": 1,
+      "title": "\u042e\u043d\u0435\u043a\u0441 \u0411\u0430\u043d\u043a \u0427\u041e \u21161",
+      "regionId": "ua,7oiylpmiow8iy1smacb",
+      "cityId": "7oiylpmiow8iy1smaea",
+      "phone": "0672180503",
+      "address": "\u0431-\u0440 \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0430, 145",
+      "link": "http:\/\/dataRoot.finance.ua\/ru\/info\/currency\/-\/7oiylpmiow8iy1smbzh\/cash",
+      "currencies": {
+        "EUR": {
+          "ask": "26.0000",
+          "bid": "25.6000"
+        },
+        "RUB": {
+          "ask": "0.3300",
+          "bid": "0.3000"
+        },
+        "USD": {
+          "ask": "23.0000",
+          "bid": "22.5000"
+        }
+      }
+    }
+  ],
+  "orgTypes": {
+    "1": "\u0411\u0430\u043d\u043a\u0438",
+    "2": "\u041f\u041e\u0412"
+  },
+  "currencies": {
+    "AED": "\u0434\u0438\u0440\u0445\u0430\u043c\u044b \u041e\u0410\u042d",
+    "AMD": "\u0430\u0440\u043c\u044f\u043d\u0441\u043a\u0438\u0435 \u0434\u0440\u0430\u043c\u044b",
+    "AUD": "\u0430\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0434\u043e\u043b\u043b\u0430\u0440\u044b",
+    "AZN": "\u0430\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u043a\u0438\u0435 \u043c\u0430\u043d\u0430\u0442\u044b",
+    "BGN": "\u0431\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0435 \u043b\u0435\u0432\u044b",
+    "BRL": "\u0431\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u043a\u0438\u0435 \u0440\u0435\u0430\u043b\u044b",
+    "BYR": "\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u0441\u043a\u0438\u0435 \u0440\u0443\u0431\u043b\u0438",
+    "CAD": "\u043a\u0430\u043d\u0430\u0434\u0441\u043a\u0438\u0435 \u0434\u043e\u043b\u043b\u0430\u0440\u044b",
+    "CHF": "\u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u0438\u0435 \u0444\u0440\u0430\u043d\u043a\u0438",
+    "CLP": "\u0447\u0438\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u043f\u0435\u0441\u043e",
+    "CNY": "\u044e\u0430\u043d\u0438 \u0416\u0435\u043d\u044c\u043c\u0438\u043d\u044c\u0431\u0438 (\u041a\u0438\u0442\u0430\u0439)",
+    "CYP": "\u043a\u0438\u043f\u0440\u0441\u043a\u0438\u0435 \u0444\u0443\u043d\u0442\u044b",
+    "CZK": "\u0447\u0435\u0448\u0441\u043a\u0438\u0435 \u043a\u0440\u043e\u043d\u044b",
+    "DKK": "\u0434\u0430\u0442\u0441\u043a\u0438\u0435 \u043a\u0440\u043e\u043d\u044b",
+    "EEK": "\u044d\u0441\u0442\u043e\u043d\u0441\u043a\u0438\u0435 \u043a\u0440\u043e\u043d\u044b",
+    "EGP": "\u0435\u0433\u0438\u043f\u0435\u0442\u0441\u043a\u0438\u0435 \u0444\u0443\u043d\u0442\u044b",
+    "EUR": "\u0415\u0412\u0420\u041e",
+    "GBP": "\u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0444\u0443\u043d\u0442\u044b \u0441\u0442\u0435\u0440\u043b\u0438\u043d\u0433\u043e\u0432",
+    "GEL": "\u0433\u0440\u0443\u0437\u0438\u043d\u0441\u043a\u0438\u0435 \u043b\u0430\u0440\u0438",
+    "HKD": "\u0433\u043e\u043d\u043a\u043e\u043d\u0433\u0441\u043a\u0438\u0435 \u0434\u043e\u043b\u043b\u0430\u0440\u044b",
+    "HRK": "\u0445\u043e\u0440\u0432\u0430\u0442\u0441\u043a\u0438\u0435 \u043a\u0443\u043d\u044b",
+    "HUF": "\u0432\u0435\u043d\u0433\u0435\u0440\u0441\u043a\u0438\u0435 \u0444\u043e\u0440\u0438\u043d\u0442\u044b",
+    "ILS": "\u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0435 \u0448\u0435\u043a\u0435\u043b\u0438",
+    "INR": "\u0438\u043d\u0434\u0438\u0439\u0441\u043a\u0438\u0435 \u0440\u0443\u043f\u0438\u0438",
+    "IQD": "\u0438\u0440\u0430\u043a\u0441\u043a\u0438\u0435 \u0434\u0438\u043d\u0430\u0440\u044b",
+    "ISK": "\u0438\u0441\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043a\u0440\u043e\u043d\u044b",
+    "JPY": "\u044f\u043f\u043e\u043d\u0441\u043a\u0438\u0435 \u0438\u0435\u043d\u044b",
+    "KGS": "\u0441\u043e\u043c\u044b \u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d\u0430",
+    "KRW": "\u0432\u043e\u043d\u044b \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u041a\u043e\u0440\u0435\u044f",
+    "KWD": "\u043a\u0443\u0432\u0435\u0439\u0442\u0441\u043a\u0438\u0435 \u0434\u0438\u043d\u0430\u0440\u044b",
+    "KZT": "\u043a\u0430\u0437\u0430\u0445\u0441\u043a\u0438\u0435 \u0442\u0435\u043d\u044c\u0433\u0435",
+    "LBP": "\u043b\u0438\u0432\u0430\u043d\u0441\u043a\u0438\u0435 \u0444\u0443\u043d\u0442\u044b",
+    "LTL": "\u043b\u0438\u0442\u043e\u0432\u0441\u043a\u0438\u0435 \u043b\u0438\u0442\u044b",
+    "LVL": "\u043b\u0430\u0442\u0432\u0438\u0439\u0441\u043a\u0438\u0435 \u043b\u0430\u0442\u044b",
+    "MDL": "\u043c\u043e\u043b\u0434\u0430\u0432\u0441\u043a\u0438\u0435 \u043b\u0435\u0438",
+    "MTL": "\u043c\u0430\u043b\u044c\u0442\u0438\u0439\u0441\u043a\u0438\u0435 \u043b\u0438\u0440\u044b",
+    "MXN": "\u043c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0435 \u043d\u043e\u0432\u044b\u0435 \u043f\u0435\u0441\u043e",
+    "NOK": "\u043d\u043e\u0440\u0432\u0435\u0436\u0441\u043a\u0438\u0435 \u043a\u0440\u043e\u043d\u044b",
+    "NZD": "\u043d\u043e\u0432\u043e\u0437\u0435\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u0434\u043e\u043b\u043b\u0430\u0440\u044b",
+    "PKR": "\u043f\u0430\u043a\u0438\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0435 \u0440\u0443\u043f\u0438\u0438",
+    "PLN": "\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0435 \u0437\u043b\u043e\u0442\u044b\u0435",
+    "ROL": "\u0440\u0443\u043c\u044b\u043d\u0441\u043a\u0438\u0435 \u043b\u0435\u0438",
+    "RUB": "\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u0440\u0443\u0431\u043b\u0438",
+    "SAR": "\u0440\u0438\u0430\u043b\u044b \u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u043e\u0439 \u0410\u0440\u0430\u0432\u0438\u0438",
+    "SEK": "\u0448\u0432\u0435\u0434\u0441\u043a\u0438\u0435 \u043a\u0440\u043e\u043d\u044b",
+    "SGD": "\u0441\u0438\u043d\u0433\u0430\u043f\u0443\u0440\u0441\u043a\u0438\u0435 \u0434\u043e\u043b\u043b\u0430\u0440\u044b",
+    "SKK": "\u0441\u043b\u043e\u0432\u0430\u0446\u043a\u0438\u0435 \u043a\u0440\u043e\u043d\u044b",
+    "THB": "\u0442\u0430\u0438\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u0431\u0430\u0442\u044b",
+    "TJS": "\u0442\u0430\u0434\u0436\u0438\u043a\u0441\u043a\u0438\u0435 \u0441\u043e\u043c\u043e\u043d\u044b",
+    "TMT": "\u043d\u043e\u0432\u044b\u0435 \u0442\u0443\u0440\u043a\u043c\u0435\u043d\u0441\u043a\u0438\u0435 \u043c\u0430\u043d\u0430\u0442\u044b",
+    "TRY": "\u043d\u043e\u0432\u044b\u0435 \u0442\u0443\u0440\u0435\u0446\u043a\u0438\u0435 \u043b\u0438\u0440\u044b",
+    "TWD": "\u043d\u043e\u0432\u044b\u0435 \u0442\u0430\u0439\u0432\u0430\u043d\u0441\u043a\u0438\u0435 \u0434\u043e\u043b\u043b\u0430\u0440\u044b",
+    "USD": "\u0434\u043e\u043b\u043b\u0430\u0440\u044b \u0421\u0428\u0410",
+    "VND": "\u0432\u044c\u0435\u0442\u043d\u0430\u043c\u0441\u043a\u0438\u0435 \u0434\u043e\u043d\u0433\u0438"
+  },
+  "regions": {
+    "ua,7oiylpmiow8iy1smac8": "\u0412\u0438\u043d\u043d\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smac1": "\u0412\u043e\u043b\u044b\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smaci": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smacl": "\u0414\u043e\u043d\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smac7": "\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smabz": "\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smack": "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smac2": "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,0,7oiylpmiow8iy1smadi": "\u041a\u0438\u0435\u0432",
+    "ua,7oiylpmiow8iy1smace": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smacm": "\u041b\u0443\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smac0": "\u041b\u044c\u0432\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smacd": "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smacc": "\u041e\u0434\u0435\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smacf": "\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smacg": "\u0421\u0443\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smac3": "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smacj": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smach": "\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smac6": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smacb": "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smaca": "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "ua,7oiylpmiow8iy1smac5": "\u0427\u0435\u0440\u043d\u043e\u0432\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+  },
+  "cities": {
+    "7oiylpmiow8iy1smady": "\u0410\u043d\u0442\u0440\u0430\u0446\u0438\u0442",
+    "7oiylpmiow8iy1smag3": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434-\u0414\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439",
+    "7oiylpmiow8iy1smaf1": "\u0412\u0438\u043d\u043d\u0438\u0446\u0430",
+    "7oiylpmiow8iy1smadm": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+    "7oiylpmiow8iy1smaee": "\u0414\u043e\u043d\u0435\u0446\u043a",
+    "7oiylpmiow8iy1smaex": "\u0414\u0440\u043e\u0433\u043e\u0431\u044b\u0447",
+    "7oiylpmiow8iy1smaev": "\u0416\u0438\u0442\u043e\u043c\u0438\u0440",
+    "7oiylpmiow8iy1smadn": "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435",
+    "7oiylpmiow8iy1smap5": "\u0417\u0432\u0435\u043d\u0438\u0433\u043e\u0440\u043e\u0434\u043a\u0430",
+    "7oiylpmiow8iy1smaeg": "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a",
+    "7oiylpmiow8iy1smaes": "\u041a\u0430\u043c\u0435\u043d\u0435\u0446-\u041f\u043e\u0434\u043e\u043b\u044c\u0441\u043a\u0438\u0439",
+    "7oiylpmiow8iy1smadi": "\u041a\u0438\u0435\u0432",
+    "7oiylpmiow8iy1smae3": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434",
+    "7oiylpmiow8iy1smafj": "\u041a\u043e\u0432\u0435\u043b\u044c",
+    "7oiylpmiow8iy1smae8": "\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a",
+    "7oiylpmiow8iy1smaeb": "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433",
+    "7oiylpmiow8iy1smadz": "\u041a\u0440\u0438\u0432\u043e\u0439 \u0420\u043e\u0433",
+    "7oiylpmiow8iy1smae0": "\u041b\u0443\u0433\u0430\u043d\u0441\u043a",
+    "7oiylpmiow8iy1smadr": "\u041b\u044c\u0432\u043e\u0432",
+    "7oiylpmiow8iy1smadq": "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432",
+    "7oiylpmiow8iy1smadk": "\u041e\u0434\u0435\u0441\u0441\u0430",
+    "7oiylpmiow8iy1smaer": "\u041f\u0430\u0432\u043b\u043e\u0433\u0440\u0430\u0434",
+    "7oiylpmiow8iy1smadx": "\u041f\u043e\u043b\u0442\u0430\u0432\u0430",
+    "7oiylpmiow8iy1smaf3": "\u0421\u0435\u0432\u0435\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u043a",
+    "7oiylpmiow8iy1smarv": "\u0421\u0442\u0430\u0440\u044b\u0439 \u0421\u0430\u043c\u0431\u043e\u0440",
+    "7oiylpmiow8iy1smagh": "\u0421\u0442\u0440\u044b\u0439",
+    "7oiylpmiow8iy1smaek": "\u0421\u0443\u043c\u044b",
+    "7oiylpmiow8iy1smaeo": "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c",
+    "7oiylpmiow8iy1smadp": "\u0423\u0436\u0433\u043e\u0440\u043e\u0434",
+    "7oiylpmiow8iy1smadj": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432",
+    "7oiylpmiow8iy1smaen": "\u0425\u0435\u0440\u0441\u043e\u043d",
+    "7oiylpmiow8iy1smae7": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439",
+    "7oiylpmiow8iy1smaff": "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434",
+    "7oiylpmiow8iy1smaea": "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u044b",
+    "7oiylpmiow8iy1smaec": "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432",
+    "7oiylpmiow8iy1smael": "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
+  }
+}
